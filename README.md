@@ -1,17 +1,13 @@
 # Refactoring-CodingChallenge
 
-This is refactoring coding challenge that I developed for one company. 
-That shows you my coding and design skills:
+This is refactoring coding challenge that I developed to show you my coding and design skills:
 
-1. Uncle bob Clean Code principals,
-2. [Junit skill](https://github.com/Vedenin/Refactoring-CodingChallenge/tree/master/src/test/java/com/github/vedenin/gildedrose),
-3. [Unit test skill](https://github.com/Vedenin/Refactoring-CodingChallenge/tree/master/src/test/java/com/github/vedenin/gildedrose),
-4. [Pattern Strategy](https://github.com/Vedenin/Refactoring-CodingChallenge/tree/master/src/main/java/com/github/vedenin/gildedrose/strategies),
-5. [Pattern Factory](https://github.com/Vedenin/Refactoring-CodingChallenge/tree/master/src/main/java/com/github/vedenin/gildedrose/factories),
-6. [SOLID principals](https://github.com/Vedenin/Refactoring-CodingChallenge/tree/master/src/main/java/com/github/vedenin/gildedrose),
-7. [TDD principals](https://github.com/Vedenin/Refactoring-CodingChallenge/tree/master/src/test/java/com/github/vedenin/gildedrose),
-8. [Java 8 (Stream API)](https://github.com/Vedenin/Refactoring-CodingChallenge/blob/master/src/main/java/com/github/vedenin/gildedrose/GildedRose.java)
-
+1. [Guice](https://github.com/Vedenin/RockPaperScissorsCodingChallenge/blob/master/src/main/java/com/github/vedenin/testtask/ApplicationModule.java),
+2. [Dependency injection](https://github.com/Vedenin/RockPaperScissorsCodingChallenge/blob/master/src/main/java/com/github/vedenin/testtask/ApplicationModule.java),
+3. [Pattern Strategy](https://github.com/Vedenin/RockPaperScissorsCodingChallenge/tree/master/src/main/java/com/github/vedenin/testtask/strategies)
+4. [SOLID principle](https://github.com/Vedenin/RockPaperScissorsCodingChallenge/tree/master/src/main/java/com/github/vedenin/testtask)
+5. [TestNG](https://github.com/Vedenin/RockPaperScissorsCodingChallenge/tree/master/src/test/java/com/github/vedenin/testtask)
+6. [TDD principle](https://github.com/Vedenin/RockPaperScissorsCodingChallenge/tree/master/src/test/java/com/github/vedenin/testtask)
 
 ## Coding Challenge Requirements
 
